@@ -1216,6 +1216,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "billy"
+    },
+    {
+      "name": "Markloh",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "markloh"
     }
   ],
   "variable_elements": [
@@ -1411,6 +1420,7 @@
       "item.ansientseemenpickaxe.name": "Кирка из древней спермы",
       "tile.cumleaves.name": "Cumleaves",
       "tile.disactivatedportalblock.name": "Неактивированый портал",
+      "item.markloh.name": "Markloh",
       "item.ancientseemenaxe.name": "Топор из древней спермы",
       "item.iunostvsapoghakh.name": "Iunost v Sapoghakh",
       "item.spermesword.name": "Меч из засохшей спермы",
