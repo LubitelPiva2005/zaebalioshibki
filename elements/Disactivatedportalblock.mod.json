@@ -2,7 +2,7 @@
   "_fv": 13,
   "_type": "block",
   "definition": {
-    "texture": "biez_imieni-1",
+    "texture": "fsie",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "SOLID",
