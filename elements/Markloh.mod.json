@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "spermeswoerd",
+    "texture": "anvil_top_damaged_0",
     "customModelName": "Normal",
     "name": "Markloh",
     "rarity": "COMMON",
